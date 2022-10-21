@@ -31,12 +31,12 @@ li{
 }
 
 .weather-app {
-  border: 2px solid #9b5d73;
+  border: 2px solid #87a8d0; ;
   padding: 15px;
   margin: 20px auto;
   border-radius: 8px;
   max-width:  500px;
-  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  background: linear-gradient(109.6deg, rgb(245, 239, 249) 30.1%, rgb(207, 211, 236) 100.2%);
 }
 
 .temperature {
@@ -47,13 +47,6 @@ li{
 
 }
 
-.maxmin {
-  color:#d5daeb;
-  position:relative;
-  font-size: 16px;
-  line-height:2;
-
-}
 
 .weather-icon {
   margin-top: -10px;
@@ -66,7 +59,8 @@ li{
 }
 
 .container-fluid{
-background: linear-gradient(44.8deg, rgba(255, 136, 102, 0.67) -53.1%, rgba(255, 221, 136, 0.28) 49%);}
+background: radial-gradient(343px at 46.3% 47.5%, rgb(242, 242, 242) 0%, rgb(241, 241, 241) 72.9%);
+}
 
 .container-temp{
   font-size: 12px;
