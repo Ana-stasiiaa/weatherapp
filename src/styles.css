@@ -61,8 +61,10 @@ body{
   background: radial-gradient(343px at 46.3% 47.5%, rgb(242, 242, 242) 0%, rgb(241, 241, 241) 72.9%);
   }
   
+  
   .container-temp{
     font-size: 12px;
+    padding: 10px;
   }
 
   .weather-temperature .active {
@@ -75,4 +77,5 @@ body{
 .weather-temperature .active:hover {
   text-decoration: none;
 }
+
   
